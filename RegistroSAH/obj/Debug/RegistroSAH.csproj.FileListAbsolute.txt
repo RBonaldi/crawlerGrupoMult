@@ -1,0 +1,10 @@
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\bin\Debug\RegistroSAH.exe.config
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\bin\Debug\RegistroSAH.exe
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\bin\Debug\RegistroSAH.pdb
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\Interop.SHDocVw.dll
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.csproj.ResolveComReference.cache
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.Form1.resources
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.Properties.Resources.resources
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.csproj.GenerateResource.Cache
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.exe
+c:\users\rafael.simoes\documents\visual studio 2015\Projects\RegistroSAH\RegistroSAH\obj\Debug\RegistroSAH.pdb
